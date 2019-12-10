@@ -37,7 +37,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'stringex',                        '~> 2.0.3'
 
   s.add_dependency 'multi_json',                      '~> 1.7.3'
-  s.add_dependency 'httmultiparty',                   '0.3.10'
+  s.add_dependency 'httmultiparty',                   '0.3.16'
   s.add_dependency 'json',                            '~> 1.8.0'
   s.add_dependency 'mime-types',                      '~> 1.19'
 
